@@ -1,1 +1,3 @@
-# calculator-using-html-cssjavascript
+copy 
+paste
+enjoy!
